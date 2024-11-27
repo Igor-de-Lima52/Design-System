@@ -9,9 +9,9 @@
     "deploy-storybook": "storybook-to-ghpages"
   },
   "dependencies": {
-    "@igniteuistudying/eslint-config": "undefined",
-    "@igniteuistudying/react": "undefined",
-    "@igniteuistudying/tokens": "undefined",
+    "@igniteuistudying/eslint-config": "*",
+    "@igniteuistudying/react": "*",
+    "@igniteuistudying/tokens": "*",
     "@storybook/addon-a11y": "^8.4.5",
     "phosphor-react": "^1.4.1",
     "polished": "^4.3.1",

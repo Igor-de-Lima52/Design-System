@@ -1,6 +1,6 @@
 {
   "name": "@igniteuistudying/react",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -14,9 +14,9 @@
   "license": "MIT",
   "description": "",
   "devDependencies": {
-    "@igniteuistudying/eslint-config": "undefined",
-    "@igniteuistudying/tokens": "undefined",
-    "@igniteuistudying/ts-config": "undefined",
+    "@igniteuistudying/eslint-config": "*",
+    "@igniteuistudying/tokens": "*",
+    "@igniteuistudying/ts-config": "*",
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
     "react": "^18.3.1",

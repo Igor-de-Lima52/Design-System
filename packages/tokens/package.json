@@ -14,8 +14,8 @@
   "license": "MIT",
   "description": "",
   "devDependencies": {
-    "@igniteuistudying/ts-config": "undefined",
-    "@igniteuistudying/eslint-config": "undefined",
+    "@igniteuistudying/ts-config": "*",
+    "@igniteuistudying/eslint-config": "*",
     "tsup": "^8.3.5",
     "typescript": "^5.6.3"
   }
